@@ -35,6 +35,7 @@
 		3644F08A29B9AC0C007F21CA /* UserDetailInteractor.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3644F08529B9AC0C007F21CA /* UserDetailInteractor.swift */; };
 		3644F08B29B9AC0C007F21CA /* UserDetailModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3644F08629B9AC0C007F21CA /* UserDetailModel.swift */; };
 		3644F08D29B9AC2C007F21CA /* UserDetailViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 3644F08C29B9AC2C007F21CA /* UserDetailViewController.xib */; };
+		3644F09129B9E2EC007F21CA /* readme.md in Resources */ = {isa = PBXBuildFile; fileRef = 3644F09029B9E2EC007F21CA /* readme.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -85,6 +86,7 @@
 		3644F08529B9AC0C007F21CA /* UserDetailInteractor.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserDetailInteractor.swift; sourceTree = "<group>"; };
 		3644F08629B9AC0C007F21CA /* UserDetailModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserDetailModel.swift; sourceTree = "<group>"; };
 		3644F08C29B9AC2C007F21CA /* UserDetailViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = UserDetailViewController.xib; sourceTree = "<group>"; };
+		3644F09029B9E2EC007F21CA /* readme.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = readme.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -117,6 +119,7 @@
 		3644F02229B86ED5007F21CA = {
 			isa = PBXGroup;
 			children = (
+				3644F09029B9E2EC007F21CA /* readme.md */,
 				3644F02D29B86ED5007F21CA /* GUserWork */,
 				3644F04429B86ED6007F21CA /* GUserWorkTests */,
 				3644F04E29B86ED6007F21CA /* GUserWorkUITests */,
@@ -362,6 +365,7 @@
 				3644F08D29B9AC2C007F21CA /* UserDetailViewController.xib in Resources */,
 				3644F07629B88A27007F21CA /* UserListViewController.xib in Resources */,
 				3644F03829B86ED6007F21CA /* Assets.xcassets in Resources */,
+				3644F09129B9E2EC007F21CA /* readme.md in Resources */,
 				3644F03629B86ED5007F21CA /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
