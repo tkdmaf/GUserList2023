@@ -1,9 +1,16 @@
 # Application Exercise
 
+## Introduction
 ### Author: Sam Hsiao
+### IDE: XCode 14.2
+### iOS Version: (minimum version) 15.0
 ### Language: Swift 5.7
 ### View: UIKit
 ### Architecture: Custom VIPER(MVVM) Version 3.1 (ver author: Sam Hsiao)
+
+## Third Party Framework: (Usage SPM)
+### Moya(Alamofire)
+### SDWebImage
 
 ## Function 1
 ### GitHub User list
